@@ -1,0 +1,5 @@
+hi:=hello+251; (*addition*)
+hello++; (*increment*)
+"hey"; 
+WHILE(){}[];
+day;
